@@ -1,6 +1,11 @@
 # hr
 Human Resource Management
 
+## Dependencies
+
+Requires magic_php installed
+
+
 ## Install 
 
 ```
