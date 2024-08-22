@@ -10,7 +10,7 @@ php mago.php
 
 ```
 
-In the list choose the hr module and enter, this will create the `hr` plugin, do the same with all the modules with the prefix `hr_`
+In the list choose the `hr` module and enter, this will create the `hr` plugin, do the same with all the modules with the prefix `hr_`
 
 go to: 
 
