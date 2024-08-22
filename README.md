@@ -9,6 +9,7 @@ cd /var/www/html/magia_php/consola
 php mago.php
 
 ```
+![image](hr_1.png)
 
 In the list choose the `hr` module and enter, this will create the `hr` plugin, do the same with all the modules with the prefix `hr_`
 
